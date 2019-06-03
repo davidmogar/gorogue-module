@@ -1,0 +1,18 @@
+{
+  "name": "davidmogar-rogue",
+  "version": "0.1.0",
+  "author": "David Moreno García",
+  "summary": "Module to replace a Puppet Server with a rogue one",
+  "license": "Apache-2.0",
+  "source": "https://github.com/davidmogar/gorogue-module",
+  "project_page": "https://github.com/davidmogar/gorogue-module",
+  "issues_url": "https://github.com/davidmogar/gorogue-module/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
